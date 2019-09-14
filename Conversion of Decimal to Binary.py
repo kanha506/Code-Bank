@@ -1,0 +1,4 @@
+n = int(input("Enter any decimal number: "))
+
+
+print("Converted to Binary Number: ", bin(n))
